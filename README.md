@@ -15,3 +15,6 @@ if it shows that it needs to get an update, update it and proceed to the next st
 navigate to 'https://sites.google.com/chromium.org/driver/' and download the corresponding latest stable release  
 ![ChromeDriver Version Check](assets/chromeDriverVersion.png)  
 It is the corresponding version because both (in this example) chrome browser version and chromedriver version start with 100.X.XXXX.XXX
+
+
+# Documentation Writing in process...
