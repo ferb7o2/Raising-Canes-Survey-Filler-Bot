@@ -1,6 +1,6 @@
-# Panda-Express-Survey-Filler-Bot (WINDOWS GUIDE)
+# Raising-Canes-Survey-Filler-Bot (WINDOWS GUIDE)
 
-How to use:
+### How to use:
 -Make sure python is installed on your system (on command prompt or powershell run this command)  
 ![Python Version Check Image](assets/checkPython.png)  
 If something similar like 'Python X.XX.X' appears then it is installed!
